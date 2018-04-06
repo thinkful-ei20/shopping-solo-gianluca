@@ -49,3 +49,15 @@ button:hover {
 .shopping-item__checked {
   text-decoration: line-through;
 }
+
+.edit-title {
+  display: inline-block;
+}
+
+.shopping-item-edit {
+  display: inline-block;
+}
+
+.edit-title > form {
+  display: inline-block;
+}
